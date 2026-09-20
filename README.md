@@ -32,6 +32,7 @@ I specialize in designing intuitive enterprise platforms, utility-focused user e
 
 * 🏢 **[MorData](https://github.com/MorData-io):** Sovereign registry & enterprise discovery infrastructure.
 * 🎙️ **[WVFM Labs](https://wvfmlabs.com):** Creative studio house producing client products, media, and visual systems.
+* 🌙 **[Moonizen](https://moonizen.com) / [Moonizen Studios](https://moonizenstudios.com):** Core Team Producer contributing to studio production, creative strategy, and digital experiences.
 * 🧪 **Sandbox Projects:** Exploring AI-driven UI patterns, utility tools, and design-led MVPs.
 
 ---
