@@ -16,6 +16,9 @@ I specialize in designing intuitive enterprise platforms, utility-focused user e
 ---
 
 ### 🧰 Creative & Design Stack
+[![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.ai)
+[![Visme](https://img.shields.io/badge/Visme-4A154B?style=for-the-badge&logo=visme&logoColor=white)](https://www.visme.co)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 
 | Category | Tools & Platforms |
 | :--- | :--- |
