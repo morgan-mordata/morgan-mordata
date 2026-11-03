@@ -1,6 +1,6 @@
 # Hi, I'm Morgan 
 
-**UI/UX Designer • Creative Producer • System Architect** 🔱
+**UI/UX Designer • Creative Producer • System Architect** 
 
 I specialize in designing intuitive enterprise platforms, utility-focused user experiences, and high-fidelity product concepts. Rather than traditional hand-coding, I leverage design systems, creative strategy, and cutting-edge AI prototyping tools to bring ideas to life with extreme attention to detail.
 
@@ -23,7 +23,7 @@ I specialize in designing intuitive enterprise platforms, utility-focused user e
 | Category | Tools & Platforms |
 | :--- | :--- |
 | **Design & UI/UX** 🎨 | Figma, Visme |
-| **AI Prototyping & Builds** 🤖 | Grok, Codex |
+| **AI Prototyping & Builds** 🤖 | Grok, Google AI Studio, Codex |
 | **Production & Studio** 🎙️ | Custom Vector Work, Design Systems, [WVFM Labs](https://wvfmlabs.com) |
 
 ---
@@ -31,6 +31,7 @@ I specialize in designing intuitive enterprise platforms, utility-focused user e
 ### 👷‍♀️ What I'm Building, Managing, & Contributing To
 
 * 🏢 **[MorData](https://github.com/MorData-io):** Sovereign registry & enterprise discovery infrastructure.
+* 📸 **[Glass&Void](https://glassandvoid.com):** Glass & Void — The Optical Intelligence Hub & Field Companion for Photographers.
 * 🎙️ **[WVFM Labs](https://wvfmlabs.com):** Creative studio house producing client products, media, and visual systems.
 * 🌙 **[Moonizen](https://moonizen.com) / [Moonizen Studios](https://moonizenstudios.com):** Core Team Producer contributing to studio production, creative strategy, and digital experiences.
 * 🧪 **Sandbox Projects:** Exploring AI-driven UI patterns, utility tools, and design-led MVPs.
