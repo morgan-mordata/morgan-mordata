@@ -1,5 +1,5 @@
-<h1 align="center">Morgan Engle </h1>
-<p align="left">Product-minded developer</p>
+<h1 align="left">Morgan Engle </h1>
+##Product-minded developer</p>
 <p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
 
 <h2>Contribution trail</h2>
@@ -58,7 +58,7 @@ I specialize in designing intuitive enterprise platforms, utility-focused user e
   <img src="https://www.gitskins.com/api/section/social?username=morgan-mordata&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F307265724%3Fu%3Dec2b20e441e7299e04a3a30f62536722de875cf3%26v%3D4" alt="morgan-mordata social visual" />
 </p>
 
-<p align="center"><a href="https://github.com/morgan-mordata">GitHub</a> · <a href="https://Mordata.io">Website</a> · <a href="https://x.com/MorData_IO">X</a></p>
+
 
 ### 🧰 Creative & Design Stack
 [![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.ai)
@@ -84,6 +84,9 @@ I specialize in designing intuitive enterprise platforms, utility-focused user e
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Morgan_MLE)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/morganengle93)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/wx3y2nmx5w3mc001m8ny65i91)
+
+
+<p align="left"><a href="https://github.com/morgan-mordata">GitHub</a> · <a href="https://Mordata.io">Website</a> · <a href="https://x.com/MorData_IO">X</a></p>
 <p align="center"><sub>─────── ◇ ───────</sub></p>
 
 
