@@ -30,10 +30,6 @@ I specialize in designing intuitive enterprise platforms, utility-focused user e
 
 ## Brightest stars
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=morgan-mordata&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F307265724%3Fu%3Dec2b20e441e7299e04a3a30f62536722de875cf3%26v%3D4" alt="morgan-mordata projects visual" />
-</p>
-
 ### What I'm Building, Managing, & Contributing To:
 
 🏢 **[MorData](https://github.com/MorData-io):** Sovereign registry & enterprise discovery infrastructure.
@@ -53,12 +49,6 @@ I specialize in designing intuitive enterprise platforms, utility-focused user e
 </p>
 
 ## Transmission
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=morgan-mordata&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F307265724%3Fu%3Dec2b20e441e7299e04a3a30f62536722de875cf3%26v%3D4" alt="morgan-mordata social visual" />
-</p>
-
-
 
 ### 🧰 Creative & Design Stack
 [![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.ai)
