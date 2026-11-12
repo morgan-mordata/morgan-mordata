@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:24124d,100:0d1117&height=175&section=header&text=Morgan%20Engle&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product-Minded%20Designer%20%E2%80%A2%20Creative%20Producer%20%E2%80%A2%20System%20Architect&descSize=14&descAlignY=62&descColor=b392f0&animation=fadeIn" width="100%" alt="Morgan Engle" />
   </a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=340&lines=Turning+complex+ideas+into+useful+tools.;Design+systems+%2B+AI+prototyping.;Built+for+people+who+care+about+details." alt="Dynamic Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=340&lines=Turning+complex+ideas+into+useful+tools.;Design+systems+%2B+AI+prototyping.;Precision+in+every+detail." alt="Dynamic Tagline" />
 
   I focus on how products feel and function. Bridging design systems, creative direction, and modern AI prototyping to ship real, usable MVPs without getting bogged down in traditional hand-coding.
 </div>
@@ -25,7 +25,7 @@
 
 * 🏢 **[MorData](https://github.com/MorData-io):** Sovereign registry & enterprise discovery infrastructure.
 * 📸 **[Glass&Void](https://glassandvoid.com):** Optical intelligence hub & field companion for photographers.
-* 🎙️ **[WVFM Labs](https://wvfmlabs.com):** Creative studio house producing client products, media, and visual systems.
+* 〰️ **[WVFM Labs](https://wvfmlabs.com):** Creative studio house producing client products, media, and visual systems.
 * 🌙 **[Moonizen](https://moonizen.com) / [Moonizen Studios](https://moonizenstudios.com):** Core team producer leading studio production, creative strategy, and digital experiences.
 * 🧪 **Sandbox Projects:** Exploring AI-driven UI patterns, utility tools, and design-led MVPs.
 
