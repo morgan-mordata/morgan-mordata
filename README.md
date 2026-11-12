@@ -39,7 +39,7 @@
 
 <p><b>🧭 INTERACTIVE BREAKDOWN</b> &nbsp;<sub>tap to expand or collapse</sub></p>
 
-<details open>
+<details>
   <summary>⚡ <strong>Core Capabilities &amp; Focus</strong></summary>
   <br />
   
@@ -64,6 +64,7 @@
 | **Studio &amp; Production**  | GitHub Workflows, Asset Pipelines, WVFM Labs |
 
 </details>
+
 
 
 ---
