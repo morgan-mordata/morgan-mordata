@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=430&lines=Turning+complex+ideas+into+clean%2C+useful+tools.;Design+systems+%2B+AI+prototyping+%3D+fast+MVPs.;Built+for+people+who+care+about+the+details." alt="Dynamic Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=340&lines=Turning+complex+ideas+into+useful+tools.;Design+systems+%2B+AI+prototyping.;Built+for+people+who+care+about+details." alt="Dynamic Tagline" />
 </p>
 
 <p align="center">
-  I focus on how products feel and function—bridging design systems, creative direction, and modern AI prototyping to ship real, usable MVPs without getting bogged down in traditional hand-coding.
+  I focus on how products feel and function. Bridging design systems, creative direction, and modern AI prototyping to ship real, usable MVPs without getting bogged down in traditional hand-coding.
 </p>
 
 ---
 
-<p><b>🌌 COSMIC TELEMETRY</b> &nbsp;<sub>public repo star map</sub></p>
+<p><b>🌌 COSMIC TELEMETRY</b> &nbsp;<sub>ecosystem &amp; repository star map</sub></p>
 
 <p align="center">
   <a href="https://github.com/morgan-mordata?tab=repositories">
@@ -20,21 +20,9 @@
   </a>
 </p>
 
-<details>
-  <summary><b>🔭 Star System Navigator</b> &nbsp;<sub>jump directly to a repo or build</sub></summary>
-  <br />
-
-  * ✦ **[morgan-mordata](https://github.com/morgan-mordata):** Galactic core, profile architecture & public repositories (`09` active).
-  * 🌐 **[MorData](https://github.com/MorData-io):** Sovereign registry & enterprise discovery infrastructure.
-  * 🔘 **[Glass&Void](https://glassandvoid.com):** Optical intelligence hub & field companion for photographers.
-  * 〰️ **[WVFM Labs](https://wvfmlabs.com):** Creative studio house producing client products, media & visual systems.
-  * 👽 **[Moonizen Studios](https://moonizenstudios.com):** Core team producer leading studio production & digital experiences.
-
-</details>
-
 ---
 
-<p><b>✦ BRIGHTEST STARS</b> &nbsp;<sub>what i'm building, managing & contributing to</sub></p>
+<p><b>✦ BRIGHTEST STARS</b> &nbsp;<sub>what i'm building, managing &amp; contributing to</sub></p>
 
 * 🏢 **[MorData](https://github.com/MorData-io):** Sovereign registry & enterprise discovery infrastructure.
 * 📸 **[Glass&Void](https://glassandvoid.com):** Optical intelligence hub & field companion for photographers.
