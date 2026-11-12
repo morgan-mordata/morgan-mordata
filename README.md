@@ -5,13 +5,14 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=340&lines=Turning+complex+ideas+into+useful+tools.;Design+systems+%2B+AI+prototyping.;Precision+in+every+detail." alt="Dynamic Tagline" />
 
-  I focus on how products feel and function. Bridging design systems, creative direction, and modern AI prototyping to ship real, usable MVPs without getting bogged down in traditional hand-coding.
+  I focus on how products feel and function. Bridging design systems, creative direction, and modern AI prototyping to ship real, usable MVPs without slow boilerplate.
+
 </div>
 
 
 ---
 
-<p><b>🌌 COSMIC TELEMETRY</b> &nbsp;<sub>ecosystem &amp; repository star map</sub></p>
+<p><b>🔭 COSMIC TELEMETRY</b> &nbsp;<sub>ecosystem &amp; repository star map</sub></p>
 
 <p align="center">
   <a href="https://github.com/morgan-mordata?tab=repositories">
@@ -23,11 +24,11 @@
 
 <p><b>✦ BRIGHTEST STARS</b> &nbsp;<sub>what i'm building, managing &amp; contributing to</sub></p>
 
-* 🏢 **[MorData](https://github.com/MorData-io):** Sovereign registry & enterprise discovery infrastructure.
+* 🌌 **[MorData](https://github.com/MorData-io):** Sovereign registry & enterprise discovery infrastructure.
 * 📸 **[Glass&Void](https://glassandvoid.com):** Optical intelligence hub & field companion for photographers.
 * 〰️ **[WVFM Labs](https://wvfmlabs.com):** Creative studio house producing client products, media, and visual systems.
-* 🌙 **[Moonizen](https://moonizen.com) / [Moonizen Studios](https://moonizenstudios.com):** Core team producer leading studio production, creative strategy, and digital experiences.
-* 🧪 **Sandbox Projects:** Exploring AI-driven UI patterns, utility tools, and design-led MVPs.
+* 👽 **[Moonizen](https://moonizen.com) / [Moonizen Studios](https://moonizenstudios.com):** Core team producer leading studio production, creative strategy, and digital experiences.
+* 🫟 **Sandbox Projects:** Exploring AI-driven UI patterns, utility tools, and design-led MVPs.
 
 ---
 
