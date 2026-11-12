@@ -26,11 +26,11 @@
 
 🏗️  **[MorData](https://mordata.io):** Sovereign registry & enterprise discovery infrastructure.<br />
 
-🌌  **[Glass&Void](https://YOUR-GLASS-AND-VOID-URL):** Optical intelligence hub & field companion for photographers.<br />
+🌌  **[Glass&Void](https://www.glassandvoid.com):** Optical intelligence hub & field companion for photographers.<br />
 
 〰️  **[WVFM Labs](https://wvfmlabs.com):** Creative studio house producing client products, media, and visual systems.<br />
 
-🛸  **[Moonizen / Moonizen Studios](https://YOUR-MOONIZEN-URL):** Contributing to studio production, creative strategy, and digital experiences.<br />
+🛸  **[Moonizen](https://moonizens.com) / [Moonizen Studios](https://moonizenstudios.com):** Contributing to studio production, creative strategy, and digital experiences.<br />
 
 🧩  **Sandbox Projects:** AI-driven UI patterns, utility tools, and design-led MVPs.
 
