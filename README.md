@@ -70,20 +70,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/morgan-engle-599aa5211"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/Morgan_MLE"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/morganengle93"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://open.spotify.com/user/wx3y2nmx5w3mc001m8ny65i91"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" /></a>
+  <a href="https://www.linkedin.com/in/morgan-engle-599aa5211"><img src="./assets/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://x.com/Morgan_MLE"><img src="./assets/x.svg" alt="X" /></a>
+  <a href="https://www.instagram.com/morganengle93"><img src="./assets/instagram.svg" alt="Instagram" /></a>
+  <a href="https://open.spotify.com/user/wx3y2nmx5w3mc001m8ny65i91"><img src="./assets/spotify.svg" alt="Spotify" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/morgan-mordata">GitHub</a> · 
-  <a href="https://Mordata.io">MorData.io</a> · 
-  <a href="https://x.com/MorData_IO">@MorData_IO</a>
+  <a href="https://github.com/morgan-mordata"><img src="./assets/github.svg" alt="GitHub" /></a>
+  <a href="https://Mordata.io"><img src="./assets/mordata.svg" alt="MorData.io" /></a>
+  <a href="https://x.com/MorData_IO"><img src="./assets/mordata-x.svg" alt="@MorData_IO" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:24124d,100:0d1117&height=90&section=footer" width="100%" alt="Footer Wave" />
+  <a href="#top"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:334480,100:0d1117&height=90&section=footer" width="100%" alt="Back to top" /></a>
 </p>
 
 
