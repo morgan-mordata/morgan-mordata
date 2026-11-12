@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="30" viewBox="0 0 96 30">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111626"/>
+      <stop offset="100%" stop-color="#05070D"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8DA2FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#8DA2FF" stop-opacity="0.22"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="95" height="29" rx="14.5" fill="url(#bg)" stroke="url(#edge)"/>
+  <g transform="translate(13, 7.5) scale(0.625)" fill="#8DA2FF">
+    <circle cx="4.5" cy="5.5" r="1.75"/>
+    <rect x="3" y="9.25" width="3" height="10.75" rx="0.6"/>
+    <path d="M9.5 9.25h2.85v1.48h.04c.4-.75 1.37-1.55 2.82-1.55 3.02 0 3.58 1.98 3.58 4.56V20h-3v-5.5c0-1.31-.02-3-1.83-3-1.83 0-2.11 1.43-2.11 2.91V20h-3V9.25z"/>
+  </g>
+  <text x="33" y="19.2" fill="#E6ECFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="0.2">LinkedIn</text>
+</svg>
