@@ -24,13 +24,13 @@
 
 <p><b>✦ BRIGHTEST STARS</b> &nbsp;<sub>what i'm building, managing &amp; contributing to</sub></p>
 
-🏗️  **[MorData](your-mordata-url):** Sovereign registry & enterprise discovery infrastructure.<br />
+🏗️  **[MorData](https://mordata.io):** Sovereign registry & enterprise discovery infrastructure.<br />
 
-🌌  **[Glass&Void](your-glass-and-void-url):** Optical intelligence hub & field companion for photographers.<br />
+🌌  **[Glass&Void](https://YOUR-GLASS-AND-VOID-URL):** Optical intelligence hub & field companion for photographers.<br />
 
-〰️  **[WVFM Labs](your-wvfm-url):** Creative studio house producing client products, media, and visual systems.<br />
+〰️  **[WVFM Labs](https://wvfmlabs.com):** Creative studio house producing client products, media, and visual systems.<br />
 
-🛸  **[Moonizen / Moonizen Studios](your-moonizen-url):** Contributing to studio production, creative strategy, and digital experiences.<br />
+🛸  **[Moonizen / Moonizen Studios](https://YOUR-MOONIZEN-URL):** Contributing to studio production, creative strategy, and digital experiences.<br />
 
 🧩  **Sandbox Projects:** AI-driven UI patterns, utility tools, and design-led MVPs.
 
