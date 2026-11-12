@@ -83,11 +83,13 @@
 </p>
 
 <p align="center">
+<p align="center">
   <a href="https://open.spotify.com/playlist/5XYymhLN9Fx6ZT8r0GEQ1C">
     <img src="./cognitive-yield.svg" width="460" alt="Cognitive Yield — Spotify Playlist by Morgan Engle" />
   </a>
+  <br />
+  <sub><i>Zero-vocal electronic &amp; ambient for multi-hour builds</i></sub>
 </p>
-
 
 
 <p align="center">
