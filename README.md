@@ -83,6 +83,14 @@
 </p>
 
 <p align="center">
+  <a href="https://open.spotify.com/playlist/5XYymhLN9Fx6ZT8r0GEQ1C">
+    <img src="./cognitive-yield.svg" width="460" alt="Cognitive Yield — Spotify Playlist by Morgan Engle" />
+  </a>
+</p>
+
+
+
+<p align="center">
   <a href="#top"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:334480,100:0d1117&height=90&section=footer" width="100%" alt="Back to top" /></a>
 </p>
 
