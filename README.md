@@ -24,11 +24,15 @@
 
 <p><b>✦ BRIGHTEST STARS</b> &nbsp;<sub>what i'm building, managing &amp; contributing to</sub></p>
 
-- 🏗 **[MorData](https://Mordata.io):** Sovereign registry & enterprise discovery infrastructure.
-- 🌌 **[Glass&Void](your-glass-and-void-url):** Optical intelligence hub & field companion for photographers.
-- 〰️ **[WVFM Labs](your-wvfm-url):** Creative studio house producing client products, media, and visual systems.
-- 🛸 **[Moonizen / Moonizen Studios](your-moonizen-url):** Contributing to studio production, creative strategy, and digital experiences.
-- 🧩 **Sandbox Projects:** AI-driven UI patterns, utility tools, and design-led MVPs.
+🏗️  **[MorData](your-mordata-url):** Sovereign registry & enterprise discovery infrastructure.<br />
+
+🌌  **[Glass&Void](your-glass-and-void-url):** Optical intelligence hub & field companion for photographers.<br />
+
+〰️  **[WVFM Labs](your-wvfm-url):** Creative studio house producing client products, media, and visual systems.<br />
+
+🛸  **[Moonizen / Moonizen Studios](your-moonizen-url):** Contributing to studio production, creative strategy, and digital experiences.<br />
+
+🧩  **Sandbox Projects:** AI-driven UI patterns, utility tools, and design-led MVPs.
 
 
 ---
@@ -38,13 +42,16 @@
 <details open>
   <summary>⚡ <strong>Core Capabilities &amp; Focus</strong></summary>
   <br />
-  <ul>
-    <li>🎯 <strong>UI/UX Architecture:</strong> End-to-end user flows, interactive wireframes, and scalable interface systems.</li>
-    <li>🩻 <strong>Creative Direction:</strong> Brand identity, bespoke vector systems, and cohesive product storytelling.</li>
-    <li>⚡ <strong>Rapid AI Prototyping:</strong> Translating complex product logic into functional MVPs with AI-assisted workflows.</li>
-    <li>🛠️ <strong>Product Production:</strong> Technical scoping, asset pipelines, and hands-on studio delivery from concept to launch.</li>
-  </ul>
+  
+  🎯 <strong>UI/UX Architecture:</strong> End-to-end user flows, interactive wireframes, and scalable interface systems.<br />
+  
+  🎨 <strong>Creative Direction:</strong> Brand identity, bespoke vector systems, and cohesive product storytelling.<br />
+  
+  ⚡ <strong>Rapid AI Prototyping:</strong> Translating complex product logic into functional MVPs with AI-assisted workflows.<br />
+  
+  🛠️ <strong>Product Production:</strong> Technical scoping, asset pipelines, and hands-on studio delivery from concept to launch.
 </details>
+
 
 <details>
   <summary>🧰 <strong>Creative &amp; AI Build Stack</strong></summary>
