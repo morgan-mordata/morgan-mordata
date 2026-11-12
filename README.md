@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://Mordata.io">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:24124d,100:0d1117&height=175&section=header&text=Morgan%20Engle&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product-Minded%20Designer%20%E2%80%A2%20Creative%20Producer%20%E2%80%A2%20System%20Architect&descSize=14&descAlignY=62&descColor=b392f0&animation=fadeIn" width="100%" alt="Morgan Engle" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:334480,100:0d1117&height=175&section=header&text=Morgan%20Engle&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product-Minded%20Designer%20%E2%80%A2%20Creative%20Producer%20%E2%80%A2%20System%20Architect&descSize=14&descAlignY=62&descColor=8DA2FF&animation=fadeIn" width="100%" alt="Morgan Engle" />
   </a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=340&lines=Turning+complex+ideas+into+useful+tools.;Design+systems+%2B+AI+prototyping.;Precision+in+every+detail." alt="Dynamic Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=3200&pause=1000&color=8DA2FF&center=true&vCenter=true&width=340&lines=Turning+complex+ideas+into+useful+tools.;Design+systems+%2B+AI+prototyping.;Precision+in+every+detail." alt="Dynamic Tagline" />
 
   I focus on how products feel and function. Bridging design systems, creative direction, and modern AI prototyping to ship real, usable MVPs without slow boilerplate.
 
@@ -70,16 +70,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/morgan-engle-599aa5211"><img src="./assets/linkedin.svg" alt="LinkedIn" /></a>
-  <a href="https://x.com/Morgan_MLE"><img src="./assets/x.svg" alt="X" /></a>
-  <a href="https://www.instagram.com/morganengle93"><img src="./assets/instagram.svg" alt="Instagram" /></a>
-  <a href="https://open.spotify.com/user/wx3y2nmx5w3mc001m8ny65i91"><img src="./assets/spotify.svg" alt="Spotify" /></a>
+  <a href="https://www.linkedin.com/in/morgan-engle-599aa5211"><img src="./assets/linkedin.svg" height="24" alt="LinkedIn" /></a>
+  <a href="https://x.com/Morgan_MLE"><img src="./assets/x.svg" height="24" alt="X" /></a>
+  <a href="https://www.instagram.com/morganengle93"><img src="./assets/instagram.svg" height="24" alt="Instagram" /></a>
+  <a href="https://open.spotify.com/user/wx3y2nmx5w3mc001m8ny65i91"><img src="./assets/spotify.svg" height="24" alt="Spotify" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/morgan-mordata"><img src="./assets/github.svg" alt="GitHub" /></a>
-  <a href="https://Mordata.io"><img src="./assets/mordata.svg" alt="MorData.io" /></a>
-  <a href="https://x.com/MorData_IO"><img src="./assets/mordata-x.svg" alt="@MorData_IO" /></a>
+  <a href="https://github.com/morgan-mordata"><img src="./assets/github.svg" height="22" alt="GitHub" /></a>
+  <a href="https://Mordata.io"><img src="./assets/mordata.svg" height="22" alt="MorData.io" /></a>
+  <a href="https://x.com/MorData_IO"><img src="./assets/mordata-x.svg" height="22" alt="@MorData_IO" /></a>
 </p>
 
 <p align="center">
