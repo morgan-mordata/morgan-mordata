@@ -12,7 +12,7 @@
 
 ---
 
-<p><b>🔭 COSMIC TELEMETRY</b> &nbsp;<sub>ecosystem &amp; repository star map</sub></p>
+<p><b>🔭 COSMIC TELEMETRY</b><br /><sub>ecosystem &amp; repository star map</sub></p>
 
 <p align="center">
   <a href="https://github.com/morgan-mordata?tab=repositories">
@@ -22,7 +22,7 @@
 
 ---
 
-<p><b>✦ BRIGHTEST STARS</b> &nbsp;<sub>what i'm building, managing &amp; contributing to</sub></p>
+<p><b>✦ BRIGHTEST STARS</b><br /><sub>what i'm building, managing &amp; contributing to</sub></p>
 
 🏗️  **[MorData](https://mordata.io):** Sovereign registry & enterprise discovery infrastructure.<br />
 
@@ -37,7 +37,7 @@
 
 ---
 
-<p><b>🧭 INTERACTIVE BREAKDOWN</b> &nbsp;<sub>tap to expand or collapse</sub></p>
+<p><b>🧭 INTERACTIVE BREAKDOWN</b><br /><sub>tap to expand or collapse</sub></p>
 
 <details>
   <summary>⚡ <strong>Core Capabilities &amp; Focus</strong></summary>
