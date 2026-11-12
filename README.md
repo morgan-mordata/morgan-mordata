@@ -84,3 +84,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:24124d,100:0d1117&height=90&section=footer" width="100%" alt="Footer Wave" />
 </p>
+
+
+---
+
+### Use This Template
+
+Want the animated `galaxy.svg` header on your own profile?
+1. **Fork** this repository (or create a public repo matching your GitHub username).
+2. Copy `galaxy.svg` and update the profile links in `README.md`.
+3. Released under the [MIT License](./LICENSE).
