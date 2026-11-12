@@ -24,49 +24,45 @@
 
 <p><b>✦ BRIGHTEST STARS</b> &nbsp;<sub>what i'm building, managing &amp; contributing to</sub></p>
 
-* 🌌 **[MorData](https://github.com/MorData-io):** Sovereign registry & enterprise discovery infrastructure.
-* 📸 **[Glass&Void](https://glassandvoid.com):** Optical intelligence hub & field companion for photographers.
-* 〰️ **[WVFM Labs](https://wvfmlabs.com):** Creative studio house producing client products, media, and visual systems.
-* 👽 **[Moonizen](https://moonizen.com) / [Moonizen Studios](https://moonizenstudios.com):** Core team producer leading studio production, creative strategy, and digital experiences.
-* 🫟 **Sandbox Projects:** Exploring AI-driven UI patterns, utility tools, and design-led MVPs.
+- 🏗 **[MorData](https://Mordata.io):** Sovereign registry & enterprise discovery infrastructure.
+- 🌌 **[Glass&Void](your-glass-and-void-url):** Optical intelligence hub & field companion for photographers.
+- 〰️ **[WVFM Labs](your-wvfm-url):** Creative studio house producing client products, media, and visual systems.
+- 🛸 **[Moonizen / Moonizen Studios](your-moonizen-url):** Contributing to studio production, creative strategy, and digital experiences.
+- 🧩 **Sandbox Projects:** AI-driven UI patterns, utility tools, and design-led MVPs.
+
 
 ---
 
 <p><b>🧭 INTERACTIVE BREAKDOWN</b> &nbsp;<sub>tap to expand or collapse</sub></p>
 
 <details open>
-  <summary><b>⚡ Core Capabilities & Focus</b></summary>
+  <summary>⚡ <strong>Core Capabilities &amp; Focus</strong></summary>
   <br />
-
-  * 📐 **UI/UX Architecture:** User flow mapping, high-fidelity wireframing, and clean interface systems.
-  * 👁️ **Creative Direction:** Brand identity, visual systems, and cohesive product storytelling.
-  * ⚡ **Rapid AI Prototyping:** Turning complex logic into working prototypes using modern AI build tools.
-  * 🛠️ **Product Production:** End-to-end scoping, asset pipelines, and hands-on client collaboration.
-
+  <ul>
+    <li>🎯 <strong>UI/UX Architecture:</strong> End-to-end user flows, interactive wireframes, and scalable interface systems.</li>
+    <li>🩻 <strong>Creative Direction:</strong> Brand identity, bespoke vector systems, and cohesive product storytelling.</li>
+    <li>⚡ <strong>Rapid AI Prototyping:</strong> Translating complex product logic into functional MVPs with AI-assisted workflows.</li>
+    <li>🛠️ <strong>Product Production:</strong> Technical scoping, asset pipelines, and hands-on studio delivery from concept to launch.</li>
+  </ul>
 </details>
 
 <details>
-  <summary><b>🧰 Creative & AI Build Stack</b></summary>
+  <summary>🧰 <strong>Creative &amp; AI Build Stack</strong></summary>
   <br />
 
-  | Domain | Tools & Platforms |
-  | :--- | :--- |
-  | **Design & UI/UX** 🎨 | Figma, Visme, Custom Vector Systems |
-  | **AI Prototyping** 🤖 | Grok, Google AI Studio, Codex |
-  | **Studio & Production** 🎙️ | Design Systems, [WVFM Labs](https://wvfmlabs.com) |
-
-  <p>
-    <a href="https://x.ai"><img src="https://img.shields.io/badge/Grok-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="Grok" /></a>
-    <a href="https://www.visme.co"><img src="https://img.shields.io/badge/Visme-4A154B?style=for-the-badge&logo=visme&logoColor=white" alt="Visme" /></a>
-    <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-  </p>
+| Domain | Tools &amp; Platforms |
+| :--- | :--- |
+| **Design &amp; UI/UX**  | Figma, Visme, Hand-Coded SVG Systems |
+| **AI Prototyping**  | Grok, Google AI Studio, OpenAI Codex |
+| **Studio &amp; Production**  | GitHub Workflows, Asset Pipelines, WVFM Labs |
 
 </details>
+
 
 ---
 
 <p align="center">
-  <i>"Focusing on utility, visual precision, and seamless user experiences."</i> ✨
+  <i>"Focusing on utility, visual precision, and seamless user experiences."</i> 
 </p>
 
 <p align="center">
