@@ -1,86 +1,99 @@
-<h1 align="left">Morgan Engle </h1>
-##Product-minded developer</p>
-<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
-
-<h2>Contribution trail</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=morgan-mordata&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F307265724%3Fu%3Dec2b20e441e7299e04a3a30f62536722de875cf3%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=morgan-mordata&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F307265724%3Fu%3Dec2b20e441e7299e04a3a30f62536722de875cf3%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Morgan Engle contribution snake" />
-</picture>
-
----
-
-**UI/UX Designer • Creative Producer • System Architect** 
-
-I specialize in designing intuitive enterprise platforms, utility-focused user experiences, and high-fidelity product concepts. Rather than traditional hand-coding, I leverage design systems, creative strategy, and cutting-edge AI prototyping tools to bring ideas to life with extreme attention to detail.
-
----
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/galaxy?username=morgan-mordata&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F307265724%3Fu%3Dec2b20e441e7299e04a3a30f62536722de875cf3%26v%3D4" alt="morgan-mordata galaxy visual" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:24124d,100:0d1117&height=175&section=header&text=Morgan%20Engle&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product-Minded%20Designer%20%E2%80%A2%20Creative%20Producer%20%E2%80%A2%20System%20Architect&descSize=14&descAlignY=62&descColor=b392f0&animation=fadeIn" width="100%" alt="Morgan Engle" />
 </p>
 
-### 🫟 Core Capabilities & Expertise
-
-* 📐 **UI/UX Architecture:** User flow optimization, high-fidelity wireframing, and interactive design.
-* 👁️ **Creative Direction:** System design, brand identity, and visual experience strategy.
-* ⚡ **Rapid AI Prototyping:** Translating complex logic into functional MVPs using modern AI build tools.
-* 🛠️ **Product Production:** End-to-end product scoping, asset pipeline management, and client collaboration.
-
-## Brightest stars
-
-### What I'm Building, Managing, & Contributing To:
-
-🏢 **[MorData](https://github.com/MorData-io):** Sovereign registry & enterprise discovery infrastructure.
-
-📸 **[Glass&Void](https://glassandvoid.com):** Glass & Void — The Optical Intelligence Hub & Field Companion for Photographers.
-
-🎙️ **[WVFM Labs](https://wvfmlabs.com):** Creative studio house producing client products, media, and visual systems.
-
-🌙 **[Moonizen](https://moonizen.com) / [Moonizen Studios](https://moonizenstudios.com):** Core Team Producer contributing to studio production, creative strategy, and digital experiences.
-
-🧪 **Sandbox Projects:** Exploring AI-driven UI patterns, utility tools, and design-led MVPs.
-
-## Elements
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=morgan-mordata&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F307265724%3Fu%3Dec2b20e441e7299e04a3a30f62536722de875cf3%26v%3D4" alt="morgan-mordata stack visual" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=430&lines=Turning+complex+ideas+into+clean%2C+useful+tools.;Design+systems+%2B+AI+prototyping+%3D+fast+MVPs.;Built+for+people+who+care+about+the+details." alt="Dynamic Tagline" />
 </p>
 
-## Transmission
+<p align="center">
+  I focus on how products feel and function—bridging design systems, creative direction, and modern AI prototyping to ship real, usable MVPs without getting bogged down in traditional hand-coding.
+</p>
 
-### 🧰 Creative & Design Stack
-[![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.ai)
-[![Visme](https://img.shields.io/badge/Visme-4A154B?style=for-the-badge&logo=visme&logoColor=white)](https://www.visme.co)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
+---
 
-| Category | Tools & Platforms |
-| :--- | :--- |
-| **Design & UI/UX** 🎨 | Figma, Visme |
-| **AI Prototyping & Builds** 🤖 | Grok, Google AI Studio, Codex |
-| **Production & Studio** 🎙️ | Custom Vector Work, Design Systems, [WVFM Labs](https://wvfmlabs.com) |
+<p><b>🌌 COSMIC TELEMETRY</b> &nbsp;<sub>public repo star map</sub></p>
+
+<p align="center">
+  <a href="https://github.com/morgan-mordata?tab=repositories">
+    <img src="./galaxy.svg" width="100%" alt="Morgan Engle Whirling Repo Galaxy" />
+  </a>
+</p>
+
+<details>
+  <summary><b>🔭 Star System Navigator</b> &nbsp;<sub>jump directly to a repo or build</sub></summary>
+  <br />
+
+  * ✦ **[morgan-mordata](https://github.com/morgan-mordata):** Galactic core, profile architecture & public repositories (`09` active).
+  * 🌐 **[MorData](https://github.com/MorData-io):** Sovereign registry & enterprise discovery infrastructure.
+  * 🔘 **[Glass&Void](https://glassandvoid.com):** Optical intelligence hub & field companion for photographers.
+  * 〰️ **[WVFM Labs](https://wvfmlabs.com):** Creative studio house producing client products, media & visual systems.
+  * 👽 **[Moonizen Studios](https://moonizenstudios.com):** Core team producer leading studio production & digital experiences.
+
+</details>
+
+---
+
+<p><b>✦ BRIGHTEST STARS</b> &nbsp;<sub>what i'm building, managing & contributing to</sub></p>
+
+* 🏢 **[MorData](https://github.com/MorData-io):** Sovereign registry & enterprise discovery infrastructure.
+* 📸 **[Glass&Void](https://glassandvoid.com):** Optical intelligence hub & field companion for photographers.
+* 🎙️ **[WVFM Labs](https://wvfmlabs.com):** Creative studio house producing client products, media, and visual systems.
+* 🌙 **[Moonizen](https://moonizen.com) / [Moonizen Studios](https://moonizenstudios.com):** Core team producer leading studio production, creative strategy, and digital experiences.
+* 🧪 **Sandbox Projects:** Exploring AI-driven UI patterns, utility tools, and design-led MVPs.
+
+---
+
+<p><b>🧭 INTERACTIVE BREAKDOWN</b> &nbsp;<sub>tap to expand or collapse</sub></p>
+
+<details open>
+  <summary><b>⚡ Core Capabilities & Focus</b></summary>
+  <br />
+
+  * 📐 **UI/UX Architecture:** User flow mapping, high-fidelity wireframing, and clean interface systems.
+  * 👁️ **Creative Direction:** Brand identity, visual systems, and cohesive product storytelling.
+  * ⚡ **Rapid AI Prototyping:** Turning complex logic into working prototypes using modern AI build tools.
+  * 🛠️ **Product Production:** End-to-end scoping, asset pipelines, and hands-on client collaboration.
+
+</details>
+
+<details>
+  <summary><b>🧰 Creative & AI Build Stack</b></summary>
+  <br />
+
+  | Domain | Tools & Platforms |
+  | :--- | :--- |
+  | **Design & UI/UX** 🎨 | Figma, Visme, Custom Vector Systems |
+  | **AI Prototyping** 🤖 | Grok, Google AI Studio, Codex |
+  | **Studio & Production** 🎙️ | Design Systems, [WVFM Labs](https://wvfmlabs.com) |
+
+  <p>
+    <a href="https://x.ai"><img src="https://img.shields.io/badge/Grok-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="Grok" /></a>
+    <a href="https://www.visme.co"><img src="https://img.shields.io/badge/Visme-4A154B?style=for-the-badge&logo=visme&logoColor=white" alt="Visme" /></a>
+    <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+  </p>
+
+</details>
 
 ---
 
 <p align="center">
-  <i>"Focusing on utility, visual
-    precision, and seamless user experiences."</i> ✨
+  <i>"Focusing on utility, visual precision, and seamless user experiences."</i> ✨
+</p>
 
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/morgan-engle-599aa5211"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/Morgan_MLE"><img src="https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/morganengle93"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://open.spotify.com/user/wx3y2nmx5w3mc001m8ny65i91"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" /></a>
+</p>
 
-##### 🌐 Personal Links & Profiles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-engle-599aa5211)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Morgan_MLE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/morganengle93)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/wx3y2nmx5w3mc001m8ny65i91)
+<p align="center">
+  <a href="https://github.com/morgan-mordata">GitHub</a> · 
+  <a href="https://Mordata.io">MorData.io</a> · 
+  <a href="https://x.com/MorData_IO">@MorData_IO</a>
+</p>
 
-
-<p align="left"><a href="https://github.com/morgan-mordata">GitHub</a> · <a href="https://Mordata.io">Website</a> · <a href="https://x.com/MorData_IO">X</a></p>
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=morgan-mordata&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F307265724%3Fu%3Dec2b20e441e7299e04a3a30f62536722de875cf3%26v%3D4&v=cinematic-chess-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/chess?username=morgan-mordata&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F307265724%3Fu%3Dec2b20e441e7299e04a3a30f62536722de875cf3%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Morgan Engle animated chess replay" />
-</picture>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:24124d,100:0d1117&height=90&section=footer" width="100%" alt="Footer Wave" />
+</p>
