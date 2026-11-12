@@ -89,9 +89,11 @@
 
 ---
 
-### Use This Template
+### 🛠️ Use This Template
 
-Want the animated `galaxy.svg` header on your own profile?
-1. **Fork** this repository (or create a public repo matching your GitHub username).
-2. Copy `galaxy.svg` and update the profile links in `README.md`.
-3. Released under the [MIT License](./LICENSE).
+Want the animated [galaxy.svg](./galaxy.svg) header on your own profile?
+
+1. [Fork this repository](https://github.com/morgan-mordata/morgan-mordata/fork) and rename it to match your GitHub username (or create a new public `username/username` repo).
+2. Copy `galaxy.svg` (if starting fresh) and update the image URL, bio, and profile links in `README.md`.
+
+Released under the [MIT License](./LICENSE).
