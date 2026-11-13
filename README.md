@@ -100,12 +100,11 @@
   <a href="#top"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:334480,100:0d1117&height=90&section=footer" width="100%" alt="Back to top" /></a>
 </p>
 
-
 ---
 
 ## 🛠️ Use This Template
 
-Built entirely with hand-coded, static SVGs (`#05070D` / `#334480` / `#8DA2FF`)—no third-party stat widgets, rate-limit errors, or broken external image APIs.
+Built with custom hand-coded SVGs (`#05070D` / `#334480` / `#8DA2FF`)—no third-party stat trackers, rate-limited metric cards, or bloated badge walls.
 
 1. **[Fork this repository](https://github.com/morgan-mordata/morgan-mordata/fork)** and rename it to match your GitHub username.
 2. Follow the **[SVG & Asset Customization Guide](./CUSTOMIZE.md)** to swap node labels, audio metadata, and colors.
