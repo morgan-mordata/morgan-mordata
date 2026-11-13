@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" width="100%" height="40">
+  <style>
+    .t { font-family: 'Fira Code', Consolas, monospace; font-size: 14px; font-weight: 500; fill: #8DA2FF; }
+    .cursor { fill: #8DA2FF; animation: blink 0.8s infinite; }
+    @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+  </style>
+  
+  <!-- Type, pause, delete masks -->
+  <clipPath id="cp1">
+    <rect x="232" y="0" width="0" height="40">
+      <animate id="m1" attributeName="width" values="0; 340; 340; 0" keyTimes="0; 0.3; 0.8; 1" dur="4s" begin="0s; m3.end"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp2">
+    <rect x="266" y="0" width="0" height="40">
+      <animate id="m2" attributeName="width" values="0; 272; 272; 0" keyTimes="0; 0.3; 0.8; 1" dur="4s" begin="m1.end"/>
+    </rect>
+  </clipPath>
+  <clipPath id="cp3">
+    <rect x="291" y="0" width="0" height="40">
+      <animate id="m3" attributeName="width" values="0; 221; 221; 0" keyTimes="0; 0.3; 0.8; 1" dur="4s" begin="m2.end"/>
+    </rect>
+  </clipPath>
+  
+  <!-- Phased Text Strings -->
+  <text x="232" y="24" class="t" clip-path="url(#cp1)">
+    Turning complex ideas into useful tools.
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.99;1;1" dur="4s" begin="0s; m3.end"/>
+  </text>
+  <text x="266" y="24" class="t" clip-path="url(#cp2)">
+    Design systems + AI prototyping.
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="4s" begin="m1.end"/>
+  </text>
+  <text x="291" y="24" class="t" clip-path="url(#cp3)">
+    Precision in every detail.
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="4s" begin="m2.end"/>
+  </text>
+  
+  <!-- Blinking Cursor mapped to clip edges -->
+  <rect y="12" width="2" height="15" class="cursor">
+    <animate attributeName="x" values="232; 572; 572; 232" keyTimes="0; 0.3; 0.8; 1" dur="4s" begin="0s; m3.end" />
+    <animate attributeName="x" values="266; 538; 538; 266" keyTimes="0; 0.3; 0.8; 1" dur="4s" begin="m1.end" />
+    <animate attributeName="x" values="291; 512; 512; 291" keyTimes="0; 0.3; 0.8; 1" dur="4s" begin="m2.end" />
+  </rect>
+</svg>
