@@ -103,11 +103,12 @@
 
 ---
 
-### 🛠️ Use This Template
+## 🛠️ Use This Template
 
-Want this profile layout and the animated [galaxy.svg](./galaxy.svg) header?
+Built entirely with hand-coded, static SVGs (`#05070D` / `#334480` / `#8DA2FF`)—no third-party stat widgets, rate-limit errors, or broken external image APIs.
 
-1. [Fork this repository](https://github.com/morgan-mordata/morgan-mordata/fork) and rename it to match your GitHub username.
-2. Replace the bio, project links, and image URLs in `README.md` with your own.
+1. **[Fork this repository](https://github.com/morgan-mordata/morgan-mordata/fork)** and rename it to match your GitHub username.
+2. Follow the **[SVG & Asset Customization Guide](./CUSTOMIZE.md)** to swap node labels, audio metadata, and colors.
+3. Update the bio, project links, and destination URLs in [`README.md`](./README.md) with your own.
 
-Just want the galaxy? Copy `galaxy.svg` into your existing profile repo. Released under the [MIT License](./LICENSE).
+Just want the star map? Copy [`galaxy.svg`](./galaxy.svg) standalone into your existing profile repo. Released under the **[MIT License](./LICENSE)**.
