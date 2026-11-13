@@ -45,7 +45,7 @@
   
   🎯 <strong>UI/UX Architecture:</strong> End-to-end user flows, interactive wireframes, and scalable interface systems.<br />
   
-  🎨 <strong>Creative Direction:</strong> Brand identity, bespoke vector systems, and cohesive product storytelling.<br />
+  🪩 <strong>Creative Direction:</strong> Brand identity, bespoke vector systems, and cohesive product storytelling.<br />
   
   ⚡ <strong>Rapid AI Prototyping:</strong> Translating complex product logic into functional MVPs with AI-assisted workflows.<br />
   
