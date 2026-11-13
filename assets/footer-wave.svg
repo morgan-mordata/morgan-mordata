@@ -1,14 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 90" width="100%" height="90">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 105" width="100%">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="footer-grad-main" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="28%" stop-color="#22305E" />
       <stop offset="50%" stop-color="#334480" />
+      <stop offset="72%" stop-color="#22305E" />
       <stop offset="100%" stop-color="#0d1117" />
     </linearGradient>
+    <linearGradient id="footer-grad-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#8DA2FF" stop-opacity="0.32" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.2" />
+    </linearGradient>
   </defs>
-  
-  <!-- Upward Waving Background -->
-  <path d="M0,90 L0,30 Q100,0 200,30 T400,30 T600,30 T800,30 T1000,30 T1200,30 T1400,30 T1600,30 L1600,90 Z" fill="url(#grad)">
-    <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="12s" repeatCount="indefinite" />
+
+  <!-- Layer 1: Translucent upper glow wave (opacity 0.38) -->
+  <path fill="url(#footer-grad-glow)" opacity="0.38" d="M0,105 L854,105 L854,38 C690,5 510,68 340,32 C190,4 85,28 0,44 Z">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite"
+      values="M0,105 L854,105 L854,38 C690,5 510,68 340,32 C190,4 85,28 0,44 Z;
+              M0,105 L854,105 L854,24 C670,62 490,6 310,42 C165,70 75,18 0,30 Z;
+              M0,105 L854,105 L854,38 C690,5 510,68 340,32 C190,4 85,28 0,44 Z" />
+  </path>
+
+  <!-- Layer 2: Mid counter-wave layer (opacity 0.62) -->
+  <path fill="url(#footer-grad-main)" opacity="0.62" d="M0,105 L854,105 L854,30 C660,65 480,10 295,40 C155,64 65,20 0,36 Z">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
+      values="M0,105 L854,105 L854,30 C660,65 480,10 295,40 C155,64 65,20 0,36 Z;
+              M0,105 L854,105 L854,46 C680,12 500,64 320,26 C170,4 80,48 0,46 Z;
+              M0,105 L854,105 L854,30 C660,65 480,10 295,40 C155,64 65,20 0,36 Z" />
+  </path>
+
+  <!-- Layer 3: Primary sculpted foreground wave (opacity 0.92) -->
+  <path fill="url(#footer-grad-main)" opacity="0.92" d="M0,105 L854,105 L854,44 C705,12 525,70 355,36 C205,10 95,34 0,50 Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0,105 L854,105 L854,44 C705,12 525,70 355,36 C205,10 95,34 0,50 Z;
+              M0,105 L854,105 L854,32 C685,66 505,14 325,48 C175,74 85,26 0,38 Z;
+              M0,105 L854,105 L854,44 C705,12 525,70 355,36 C205,10 95,34 0,50 Z" />
   </path>
 </svg>
