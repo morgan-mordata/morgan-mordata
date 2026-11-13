@@ -1,26 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 175" width="100%" height="175">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 210" width="100%">
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="wave-grad-main" x1="0%" y1="0%" x2="100%" y2="25%">
       <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="28%" stop-color="#22305E" />
       <stop offset="50%" stop-color="#334480" />
+      <stop offset="72%" stop-color="#22305E" />
       <stop offset="100%" stop-color="#0d1117" />
     </linearGradient>
+    <linearGradient id="wave-grad-glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#8DA2FF" stop-opacity="0.32" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.2" />
+    </linearGradient>
   </defs>
+
   <style>
-    .title { font-family: system-ui, -apple-system, sans-serif; font-size: 42px; font-weight: 800; fill: #ffffff; text-anchor: middle; }
-    .subtitle { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; font-weight: 500; fill: #8DA2FF; text-anchor: middle; letter-spacing: 0.5px; }
-    .fade { animation: fadeIn 1.2s cubic-bezier(0.2, 0.8, 0.2, 1) forwards; opacity: 0; }
-    @keyframes fadeIn { 0% { opacity: 0; } 100% { opacity: 1; } }
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 56px;
+      font-weight: 700;
+      fill: #ffffff;
+      text-anchor: middle;
+      letter-spacing: -0.5px;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 18.5px;
+      font-weight: 500;
+      fill: #8DA2FF;
+      text-anchor: middle;
+      letter-spacing: 0.6px;
+    }
+    .hero-text {
+      animation: fadeUp 0.9s cubic-bezier(0.22, 1, 0.36, 1) both;
+    }
+    @keyframes fadeUp {
+      0% { opacity: 0; transform: translateY(6px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
   </style>
-  
-  <!-- Continuous Waving Background -->
-  <path d="M0,0 L0,135 Q100,165 200,135 T400,135 T600,135 T800,135 T1000,135 T1200,135 T1400,135 T1600,135 L1600,0 Z" fill="url(#grad)">
-    <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="12s" repeatCount="indefinite" />
+
+  <!-- Layer 1: Deep translucent ambient swell (opacity 0.38) -->
+  <path fill="url(#wave-grad-glow)" opacity="0.38" d="M0,0 L854,0 L854,158 C690,205 510,122 340,165 C190,202 85,175 0,152 Z">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite"
+      values="M0,0 L854,0 L854,158 C690,205 510,122 340,165 C190,202 85,175 0,152 Z;
+              M0,0 L854,0 L854,174 C670,130 490,206 310,155 C165,115 75,188 0,168 Z;
+              M0,0 L854,0 L854,158 C690,205 510,122 340,165 C190,202 85,175 0,152 Z" />
   </path>
 
-  <!-- Title & Subtitle Fade -->
-  <g class="fade">
-    <text x="400" y="85" class="title">Morgan Engle</text>
-    <text x="400" y="125" class="subtitle">Product-Minded Designer • Creative Producer • System Architect</text>
+  <!-- Layer 2: Mid counter-wave layer (opacity 0.62) -->
+  <path fill="url(#wave-grad-main)" opacity="0.62" d="M0,0 L854,0 L854,166 C660,125 480,202 295,158 C155,125 65,182 0,162 Z">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
+      values="M0,0 L854,0 L854,166 C660,125 480,202 295,158 C155,125 65,182 0,162 Z;
+              M0,0 L854,0 L854,148 C680,196 500,126 320,174 C170,206 80,145 0,148 Z;
+              M0,0 L854,0 L854,166 C660,125 480,202 295,158 C155,125 65,182 0,162 Z" />
+  </path>
+
+  <!-- Layer 3: Primary sculpted foreground wave (opacity 0.92) -->
+  <path fill="url(#wave-grad-main)" opacity="0.92" d="M0,0 L854,0 L854,148 C705,192 525,118 355,160 C205,196 95,168 0,144 Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0,0 L854,0 L854,148 C705,192 525,118 355,160 C205,196 95,168 0,144 Z;
+              M0,0 L854,0 L854,162 C685,122 505,194 325,148 C175,112 85,176 0,158 Z;
+              M0,0 L854,0 L854,148 C705,192 525,118 355,160 C205,196 95,168 0,144 Z" />
+  </path>
+
+  <!-- Typography -->
+  <g class="hero-text">
+    <text x="427" y="84" class="title">Morgan Engle</text>
+    <text x="427" y="124" class="subtitle">Product-Minded Designer • Creative Producer • System Architect</text>
   </g>
 </svg>
