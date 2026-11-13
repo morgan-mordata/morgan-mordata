@@ -111,7 +111,8 @@
 
 Built with custom hand-coded SVGs (`#05070D` / `#334480` / `#8DA2FF`)—no third-party stat trackers, rate-limited metric cards, or bloated badge walls.
 
-1. [Fork this repository](https://github.com/morgan-mordata/morgan-mordata/fork) (or click [Use this template](https://github.com/morgan-mordata/morgan-mordata/generate)) and rename it to `<your-username>`.
+1. [Fork this repository](https://github.com/morgan-mordata/morgan-mordata/fork) (or click [Use this template](https://github.com/morgan-mordata/morgan-mordata/generate) and set it to **Public**) and rename it to `<your-username>`.
+
 2. Follow the [SVG & Asset Customization Guide](./CUSTOMIZATION.md) to swap node labels, audio metadata, and colors.
 3. Update the bio, project links, and destination URLs in `README.md` with your own.
 
