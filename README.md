@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://Mordata.io">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:334480,100:0d1117&height=175&section=header&text=Morgan%20Engle&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product-Minded%20Designer%20%E2%80%A2%20Creative%20Producer%20%E2%80%A2%20System%20Architect&descSize=14&descAlignY=62&descColor=8DA2FF&animation=fadeIn" width="100%" alt="Morgan Engle" />
+    <img src="./assets/header-wave.svg" width="100%" alt="Morgan Engle" />
   </a>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=3200&pause=1000&color=8DA2FF&center=true&vCenter=true&width=340&lines=Turning+complex+ideas+into+useful+tools.;Design+systems+%2B+AI+prototyping.;Precision+in+every+detail." alt="Dynamic Tagline" />
+  <img src="./assets/typing-tagline.svg" width="360" alt="Dynamic Tagline" />
+  <br />
 
   I focus on how products feel and function. Bridging design systems, creative direction, and modern AI prototyping to ship real, usable MVPs without slow boilerplate.
-
 </div>
 
 
@@ -97,8 +97,9 @@
 
 
 <p align="center">
-  <a href="#top"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:334480,100:0d1117&height=90&section=footer" width="100%" alt="Back to top" /></a>
+  <a href="#top"><img src="./assets/footer-wave.svg" width="100%" alt="Back to top" /></a>
 </p>
+
 
 ---
 
