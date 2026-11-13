@@ -1,7 +1,7 @@
 <div align="center">
-  <a><img src="./assets/header-wave.svg" width="100%" alt="Morgan Engle" /></a>
-
-  <a><img src="./assets/typing-tagline.svg" width="360" alt="Dynamic Tagline" /></a>
+  <img src="./assets/header-wave.svg" width="100%" alt="Morgan Engle" />
+  
+  <img src="./assets/typing-tagline.svg" width="360" alt="Dynamic Tagline" />
   <br />
 
   I focus on how products feel and function. Bridging design systems, creative direction, and modern AI prototyping to ship real, usable MVPs without slow boilerplate.
@@ -95,7 +95,7 @@
 
 
 <p align="center">
-  <a><img src="./assets/footer-wave.svg" width="100%" alt="Footer wave" /></a>
+  <img src="./assets/footer-wave.svg" width="100%" alt="Footer wave" />
 </p>
 
 
