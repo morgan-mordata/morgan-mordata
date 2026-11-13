@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 175" width="100%" height="175">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="50%" stop-color="#334480" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font-family: system-ui, -apple-system, sans-serif; font-size: 42px; font-weight: 800; fill: #ffffff; text-anchor: middle; }
+    .subtitle { font-family: system-ui, -apple-system, sans-serif; font-size: 14px; font-weight: 500; fill: #8DA2FF; text-anchor: middle; letter-spacing: 0.5px; }
+    .fade { animation: fadeIn 1.2s cubic-bezier(0.2, 0.8, 0.2, 1) forwards; opacity: 0; }
+    @keyframes fadeIn { 0% { opacity: 0; } 100% { opacity: 1; } }
+  </style>
+  
+  <!-- Continuous Waving Background -->
+  <path d="M0,0 L0,135 Q100,165 200,135 T400,135 T600,135 T800,135 T1000,135 T1200,135 T1400,135 T1600,135 L1600,0 Z" fill="url(#grad)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="12s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Title & Subtitle Fade -->
+  <g class="fade">
+    <text x="400" y="85" class="title">Morgan Engle</text>
+    <text x="400" y="125" class="subtitle">Product-Minded Designer • Creative Producer • System Architect</text>
+  </g>
+</svg>
