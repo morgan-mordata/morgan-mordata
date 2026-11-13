@@ -1,9 +1,7 @@
 <div align="center">
-  <a href="https://Mordata.io">
-    <img src="./assets/header-wave.svg" width="100%" alt="Morgan Engle" />
-  </a>
+  <a><img src="./assets/header-wave.svg" width="100%" alt="Morgan Engle" /></a>
 
-  <img src="./assets/typing-tagline.svg" width="360" alt="Dynamic Tagline" />
+  <a><img src="./assets/typing-tagline.svg" width="360" alt="Dynamic Tagline" /></a>
   <br />
 
   I focus on how products feel and function. Bridging design systems, creative direction, and modern AI prototyping to ship real, usable MVPs without slow boilerplate.
@@ -97,7 +95,7 @@
 
 
 <p align="center">
-  <a href="#top"><img src="./assets/footer-wave.svg" width="100%" alt="Back to top" /></a>
+  <a><img src="./assets/footer-wave.svg" width="100%" alt="Footer wave" /></a>
 </p>
 
 
