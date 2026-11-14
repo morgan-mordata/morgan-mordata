@@ -115,9 +115,6 @@ Built with custom hand-coded SVGs (`#05070D` / `#334480` / `#8DA2FF`)—no third
 2. Follow the [SVG & Asset Customization Guide](./CUSTOMIZE.md) to swap node labels, audio metadata, and colors.
 3. Update the bio, project links, and destination URLs in `README.md` with your own.
 
-2. Follow the [SVG & Asset Customization Guide](./CUSTOMIZATION.md) to swap node labels, audio metadata, and colors.
-3. Update the bio, project links, and destination URLs in `README.md` with your own.
-
 > If you use this template for your profile, consider giving the repo a **Star** ⭐ so other developers can find it.
 
 Just want the star map? Copy [`galaxy.svg`](./galaxy.svg) standalone into your existing profile repo. Released under the **[MIT License](./LICENSE)**.
